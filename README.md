@@ -1,4 +1,4 @@
-# UIQASFT
+# UIQA-MSST
 
 We have uploaded the DART2024 dataset to the BaiduYun Disk (https://pan.baidu.com/s/1MeifqdtWE9QdnmvaXYKArg?pwd=lqrn)
 
