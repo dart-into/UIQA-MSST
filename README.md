@@ -5,7 +5,7 @@ We have uploaded the DART2024 dataset to the BaiduYun Disk (https://pan.baidu.co
 You can download the pre-trained weights for EfficientNetV2-M from the timm or via the following link
 (https://pan.baidu.com/s/1a4nnQQhSt6zonNhzSXqo6w?pwd=xvar)
 # UIQA method in this article
-![./Net](https://github.com/dart-into/UIQASFT/blob/main/UIQASFT.png)
+![./Net](https://github.com/dart-into/UIQA-MSST/blob/main/UIQASFT.png)
 ## Required Dataset
 | Dataset   | Links                                                       |
 | --------- | ----------------------------------------------------------- |
